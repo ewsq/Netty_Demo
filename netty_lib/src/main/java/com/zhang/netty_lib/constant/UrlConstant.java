@@ -8,9 +8,9 @@ public class UrlConstant {
     /**
      * socket 服务器IP地址
      */
-    public static final String SOCKET_HOST = "192.168.6.12";
+    public static final String SOCKET_HOST = "192.168.10.104";
     /**
      *  socket 服务器端口号
      */
-    public static final int SOCKET_PORT = 10088;
+    public static final int SOCKET_PORT = 60000;
 }
